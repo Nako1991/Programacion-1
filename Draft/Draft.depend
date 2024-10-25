@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1679933974 source:f:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\draft\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:f:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\draft\pila.c
+	"pila.h"
+
+1490112218 f:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\draft\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1679987200 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\draft\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\draft\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\draft\pila.c
+	"pila.h"
+
+1684712370 source:g:\1. programacion 1\projectos\draft\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1490112218 g:\1. programacion 1\projectos\draft\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:g:\1. programacion 1\projectos\draft\pila.c
+	"pila.h"
+
+1490112218 source:d:\1. programacion 1\projectos\draft\pila.c
+	"pila.h"
+
+1490112218 d:\1. programacion 1\projectos\draft\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681691104 source:d:\1. programacion 1\projectos\draft\main.c
+
+1490112218 source:h:\1. programacion 1\projectos\draft\pila.c
+	"pila.h"
+
+1490112218 h:\1. programacion 1\projectos\draft\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681870994 source:h:\1. programacion 1\projectos\draft\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490112218 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\draft\pila.c
+	"pila.h"
+
+1490112218 c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\draft\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687150674 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\draft\main.c
+	"raylib.h"
+

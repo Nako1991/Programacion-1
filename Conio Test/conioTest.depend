@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679407844 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\coniotest\main.c
+	"conio.h"
+	<string.h>
+
+1679407844 source:e:\1. programacion 1\projectos\coniotest\main.c
+	"conio.h"
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688009677 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\game\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+

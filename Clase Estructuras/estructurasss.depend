@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683654562 source:c:\estructurasss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

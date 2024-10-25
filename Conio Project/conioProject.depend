@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1680495592 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\conioproject\conio.h
+	<stdio.h>
+
+1680510238 source:g:\programacion i 1er cuatrimestre\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 g:\programacion i 1er cuatrimestre\projectos\conioproject\conio.h
+	<stdio.h>
+
+1680598878 source:g:\programacion 1er cuatrimestre\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 g:\programacion 1er cuatrimestre\projectos\conioproject\conio.h
+	<stdio.h>
+
+1680625062 source:d:\programacion 1er cuatrimestre\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 d:\programacion 1er cuatrimestre\projectos\conioproject\conio.h
+	<stdio.h>
+
+1683164080 source:g:\1. programacion 1\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 g:\1. programacion 1\projectos\conioproject\conio.h
+	<stdio.h>
+
+1681167980 source:h:\1. programacion 1\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 h:\1. programacion 1\projectos\conioproject\conio.h
+	<stdio.h>
+
+1681496956 source:e:\1. programacion 1\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 e:\1. programacion 1\projectos\conioproject\conio.h
+	<stdio.h>
+
+1681496956 source:f:\1. programacion 1\projectos\conioproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<windows.h>
+
+1124055772 f:\1. programacion 1\projectos\conioproject\conio.h
+	<stdio.h>
+

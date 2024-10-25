@@ -1,0 +1,95 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "pila.h"
+
+//12. Dada la pila ORIGEN ordenarla en forma ascendente por método de inserción dejando el
+//resultado en la pila ORIGEN. Para este ejercicio usar lo aprendido para el ejercicio 5.
+int main()
+{
+    //Declaraciones e inicializaciones
+    Pila ORIGEN, ORIGENORDENADA, AUX, INSERCION;
+    inicpila(&ORIGEN);
+    inicpila(&ORIGENORDENADA);
+    inicpila(&AUX);
+    inicpila(&INSERCION);
+
+    //Generacion aleatoria de pila ORIGEN
+    int insertarHasta;
+    srand(time(NULL));
+    insertarHasta = rand()%4+6; //Genera de 6 a 9 elementos
+    printf("\nGenerando e introduciendo elementos en ORIGEN...");
+    while(insertarHasta > 0)
+    {
+        //printf("\nApilando un nuevo elemento a ORIGEN...");
+        apilar(&ORIGEN, rand()%10); //Los elementos tienen valores del 0 al 9
+        insertarHasta--;
+    }
+    printf("\n\nORIGEN: ");
+    mostrar(&ORIGEN);
+
+    //Inicializando AUX
+    apilar(&INSERCION, desapilar(&ORIGEN));
+    //Ordenando pila ORIGEN
+    while ( !pilavacia(&ORIGEN) && !pilavacia(&INSERCION) )
+    {
+        printf("\nSe cumple la condicion while ( !pilavacia(&ORIGEN) && !pilavacia(&INSERCION) )"); //debug
+        if ( pilavacia(&ORIGENORDENADA) )
+        {
+            printf("\nSe cumple la condicion if ( pilavacia(&ORIGENORDENADA) )"); //debug
+            printf("\nApilando INSERCION en ORIGENORDENADA..."); //debug
+            apilar(&ORIGENORDENADA, desapilar(&INSERCION));
+            if ( !pilavacia(&ORIGEN) )
+            {
+                printf("\nSe cumple la condicion if ( !pilavacia(&ORIGEN) )"); //debug
+                printf("\nApilando ORIGEN en INSERCION..."); //debug
+                apilar(&INSERCION, desapilar(&ORIGEN));
+            }
+            while ( !pilavacia(&AUX) )
+            {
+                printf("\nSe cumple la condicion while ( !pilavacia(&AUX) )"); //debug
+                printf("\nApilando AUX en ORIGENORDENADA..."); //debug
+                apilar(&ORIGENORDENADA, desapilar(&AUX));
+            }
+        }
+        if ( tope(&INSERCION) < tope(&ORIGENORDENADA) )
+        {
+            printf("\nSe cumple la condicion if ( tope(&INSERCION) < tope(&ORIGENORDENADA) )"); //debug
+            printf("\nApilando ORIGENORDENADA en AUX..."); //debug
+            apilar(&AUX, desapilar(&ORIGENORDENADA));
+        }
+        else
+        {
+            printf("\nNo se cumple la condicion if ( tope(&INSERCION) < tope(&ORIGENORDENADA) )"); //debug
+            printf("\nApilando INSERCION en ORIGENORDENADA..."); //debug
+            apilar(&ORIGENORDENADA, desapilar(&INSERCION));
+            if ( !pilavacia(&ORIGEN) )
+            {
+                printf("\nse cumple la condicion if ( !pilavacia(&ORIGEN) )"); //debug
+                printf("\nApilando ORIGEN en INSERCION..."); //debug
+                apilar(&INSERCION, desapilar(&ORIGEN));
+            }
+            while ( !pilavacia(&AUX) )
+            {
+                printf("\nse cumple la condicion while ( !pilavacia(&AUX) )"); //debug
+                printf("\nApilando AUX en ORIGENORDENADA..."); //debug
+                apilar(&ORIGENORDENADA, desapilar(&AUX));
+            }
+        }
+        //Mostrando las pilas
+        printf("\nORIGEN: ");
+        mostrar(&ORIGEN);
+        printf("\nORIGENORDENADA: ");
+        mostrar(&ORIGENORDENADA);
+        printf("\nAUX: ");
+        mostrar(&AUX);
+        printf("\nINSERCION: ");
+        mostrar(&INSERCION);
+    }
+    while ( !pilavacia(&ORIGENORDENADA) )
+    {
+        apilar(&ORIGEN, desapilar(&ORIGENORDENADA));
+    }
+    printf("\nSe termino de ordenar la pila...");
+    printf("\nORIGEN: ");
+    mostrar(&ORIGEN);
+}
