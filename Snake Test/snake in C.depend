@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1680514994 source:g:\programacion y 1º cuatrimestre\programacion i 1er cuatrimestre\projectos\snake in c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1680576192 source:g:\programacion 1er cuatrimestre\projectos\snake in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1680580676 source:d:\programacion 1er cuatrimestre\projectos\snake in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1680580676 source:f:\1. programacion 1\projectos\snake in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1680580676 source:g:\1. programacion 1\projectos\snake in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

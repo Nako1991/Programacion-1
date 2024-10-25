@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112218 source:g:\1. programacion 1\projectos\modelo lab  p1 2\pila.c
+	"pila.h"
+
+1490112218 g:\1. programacion 1\projectos\modelo lab  p1 2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1683162590 source:g:\1. programacion 1\projectos\modelo lab  p1 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
