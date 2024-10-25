@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686272223 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\modelo 2do parcial laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
