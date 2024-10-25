@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657526563 source:c:\users\olmos\documents\utn progra cuatri 1\trabajos practicos\tpn 4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+

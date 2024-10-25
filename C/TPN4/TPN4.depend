@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1656460630 source:c:\users\olmos\documents\utn progra cuatri 1\trabajos practicos\tpn4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pila.h>
+	<conio.h>
+	<time.h>
+
+1656184071 source:c:\users\olmos\documents\utn progra cuatri 1\trabajos practicos\tpn4\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1656190234 source:c:\users\olmos\documents\utn progra cuatri 1\trabajos practicos\tpn4\array length test.c
+	<stdio.h>
+	<stdlib.h>
+
+1490112217 source:c:\users\olmos\documents\utn progra cuatri 1\trabajos practicos\pila.c
+	"pila.h"
+
+1490112217 c:\users\olmos\documents\utn progra cuatri 1\trabajos practicos\pila.h
+	<stdio.h>
+	<malloc.h>
+

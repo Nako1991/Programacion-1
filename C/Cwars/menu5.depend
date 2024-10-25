@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1655476573 source:c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu5\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656515028 source:c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu5\gotoxy.h
+
+1655476573 source:c:\users\kev\downloads\c tor wars 1.56 (sin tom change)\c tor wars 1.56\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656617602 source:c:\users\kev\downloads\c tor wars 1.56 (sin tom change)\c tor wars 1.56\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\kev\downloads\c tor wars 1.56 (sin tom change)\c tor wars 1.56\gotoxy.h
+
+1655476573 source:c:\users\usuario\desktop\c-tor wars 1.56 entrega 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656612550 source:c:\users\usuario\desktop\c-tor wars 1.56 entrega 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\usuario\desktop\c-tor wars 1.56 entrega 2\gotoxy.h
+

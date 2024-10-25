@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1655476573 source:c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656001388 source:c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu2\gotoxy.h
+
+1655501307 c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu2\dibujos.h
+
+1655476573 source:c:\users\kev\downloads\menu (1)\menu\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656013655 source:c:\users\kev\downloads\menu (1)\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\kev\downloads\menu (1)\menu\gotoxy.h
+
+1655476573 source:c:\users\olmos\documents\utn progra cuatri 1\cwars\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
