@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1681945338 source:f:\1. programacion 1\projectos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1682199574 source:g:\1. programacion 1\projectos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:g:\1. programacion 1\projectos\arreglos\pila.c
+	"pila.h"
+
+1490112218 g:\1. programacion 1\projectos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:e:\1. programacion 1\projectos\arreglos\pila.c
+	"pila.h"
+
+1490112218 e:\1. programacion 1\projectos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681496678 source:e:\1. programacion 1\projectos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:d:\1. programacion 1\projectos\arreglos\pila.c
+	"pila.h"
+
+1490112218 d:\1. programacion 1\projectos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681701260 source:d:\1. programacion 1\projectos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:h:\1. programacion 1\projectos\arreglos\pila.c
+	"pila.h"
+
+1490112218 h:\1. programacion 1\projectos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681867160 source:h:\1. programacion 1\projectos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 f:\1. programacion 1\projectos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:f:\1. programacion 1\projectos\arreglos\pila.c
+	"pila.h"
+

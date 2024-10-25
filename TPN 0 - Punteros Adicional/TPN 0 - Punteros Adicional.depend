@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1692509460 source:c:\users\olmos\documents\utn progra cuatri 1\1. programacion 1\projectos\tpn 0 - punteros adicional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
